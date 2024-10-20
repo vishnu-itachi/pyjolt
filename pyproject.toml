@@ -6,7 +6,7 @@ authors = ["Vishnu <https://github.com/vishnu-itachi>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.10"
 click = "^8.1.7"
 pyjson5 = "^1.6.7"
 
