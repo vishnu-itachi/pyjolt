@@ -1,0 +1,8 @@
+[
+  {
+    "operation": "cardinality",
+    "spec": {
+      "products": "MANY"
+    }
+  }
+]

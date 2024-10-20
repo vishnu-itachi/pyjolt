@@ -1,0 +1,12 @@
+{
+  "customer" : {
+    "fullName" : "Sample Client",
+    "birthDate" : "02/15/1985",
+    "address" : {
+      "street" : "Sample Client street, 123",
+      "country" : "United States"
+    },
+    "phoneNumber" : "8888-8888",
+    "mobileNumber" : "8888-8888"
+  }
+}

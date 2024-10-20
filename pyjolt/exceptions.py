@@ -1,0 +1,2 @@
+class PyJoltException(Exception):
+    pass

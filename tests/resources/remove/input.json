@@ -1,0 +1,7 @@
+{
+  "customer": {
+    "name": "Customer Default",
+    "ssn": "123.456.789.10",
+    "birthDate": "01/01/1970"
+  }
+}

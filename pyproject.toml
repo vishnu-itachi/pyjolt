@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pyjolt"
+version = "0.1.0"
+description = "jolt[https://github.com/bazaarvoice/jolt] implementation in python"
+authors = ["Vishnu <https://github.com/vishnu-itachi>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+click = "^8.1.7"
+pyjson5 = "^1.6.7"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

@@ -1,0 +1,10 @@
+[
+  {
+    "operation": "default",
+    "spec": {
+      "customer": {
+        "birthDate": "01/01/1970"
+      }
+    }
+  }
+]

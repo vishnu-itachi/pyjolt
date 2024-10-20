@@ -1,0 +1,14 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "client": {
+        "name": "customer.fullName",
+        "birthDate": "customer.birthDate",
+        "address": "customer.address.street",
+        "country": "customer.address.country",
+        "number": ["customer.phoneNumber", "customer.mobileNumber"]
+      }
+    }
+  }
+]
